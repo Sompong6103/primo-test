@@ -27,7 +27,7 @@ After building, run:
 
 - `npm run start`
 
-> If you see “Cannot find module dist/merge.js”, run the build step first.
+> If you see “Cannot find module dist/src/merge.js”, run the build step first.
 
 ## Run unit tests
 
